@@ -1,3 +1,4 @@
+#a game of rock paper and scissors made in python using random library
 import random
 
 outcome = ["rock","paper","scissor"]
